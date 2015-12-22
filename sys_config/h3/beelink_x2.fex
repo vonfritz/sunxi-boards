@@ -1071,7 +1071,7 @@ ir_tx               = port:PH07<2><default><default><default>
 ;
 ;----------------------------------------------------------------------------------
 [dvfs_table]
-pmuic_type = 2
+pmuic_type = 0
 pmu_gpio0 = port:PL06<1><1><2><1>
 pmu_level0 = 11300
 pmu_level1 = 1100
