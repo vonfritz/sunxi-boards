@@ -347,9 +347,9 @@ fb1_height = 0
 [hdmi_para]
 hdmi_used = 1
 hdmi_power = "vcc-hdmi-18"
-;-------------------------------------
-; set to 0 for hdmi->dvi compatibility
-;-------------------------------------
+;----------------------------------------------------------------------------------
+; uncomment for hdmi->dvi adapter, comment for direct hdmi
+;----------------------------------------------------------------------------------
 ;hdcp_enable            = 0
 ;hdmi_cts_compatibility = 1
 
